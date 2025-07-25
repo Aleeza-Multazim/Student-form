@@ -1,0 +1,13 @@
+#table1{
+  background-color:cornflowerblue;
+  width:50%;
+  border: 12px;
+  table-layout: fixed;
+}
+.Css{
+  background-origin: padding-box;
+  text-align: center;
+  font: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  color: cornflowerblue;
+}
